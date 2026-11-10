@@ -2,7 +2,7 @@
 
 > Organize horários entre monitores e alunos com facilidade.
 
-**MonitorIA** é um sistema web de gestão de monitoria acadêmica, criado para a **UNICID**. Ele permite que a coordenação cadastre monitores e suas disponibilidades, que alunos solicitem sessões de monitoria e que todo o fluxo (solicitação → confirmação → conclusão) seja acompanhado em um dashboard, em uma grade semanal e em um histórico exportável.
+**MonitorIA** é um sistema web de gestão de monitoria acadêmica, criado para a **UNICID**. Ele permite que a coordenação cadastre monitores e suas disponibilidades, que alunos solicitem sessões de monitoria e que todo o fluxo (solicitação → confirmação → conclusão) seja acompanhado em um dashboard, em uma grade semanal e em um histórico exportável. 
 
 O projeto é uma aplicação **front-end pura** (HTML, CSS e JavaScript), sem frameworks e sem back-end. Os dados são salvos no `localStorage` do navegador. 
   
