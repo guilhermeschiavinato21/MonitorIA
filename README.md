@@ -107,7 +107,9 @@ cd monitoria
 
 ## 📁 Estrutura do projeto
 
+
 ```
+
 monitoria/
 ├── index.html   # Estrutura das telas, modais e formulários
 ├── style.css    # Estilos da interface
@@ -126,7 +128,9 @@ monitoria/
 
 Para limpar todos os dados, apague essas chaves nas ferramentas de desenvolvedor do navegador (Application → Local Storage).
 
+
 ---
+
 
 ## ⚠️ Limitações conhecidas
 
@@ -138,7 +142,9 @@ Por ser um projeto sem back-end, vale ter em mente:
 - A navegação de semanas na Grade Semanal é apenas **cosmética** (a grade mostra sempre a disponibilidade semanal recorrente).
 - Os textos digitados são renderizados via `innerHTML` sem sanitização. Antes de levar a produção, é recomendável escapar esses valores.
 
+
 ---
+
 
 ## 🗺️ Próximos passos
 
@@ -150,12 +156,16 @@ Por ser um projeto sem back-end, vale ter em mente:
 - [ ] Sanitização de entradas e escape de CSV
 - [ ] Relatórios e gráficos de frequência por disciplina
 
+
 ---
+
 
 ## 📄 Licença
 
 Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais informações.
 
+
 ---
+
 
 <p align="center">Feito com 💙 para facilitar a vida de quem ensina e de quem aprende.</p>
