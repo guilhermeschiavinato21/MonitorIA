@@ -10,7 +10,7 @@ O projeto é uma aplicação **front-end pura** (HTML, CSS e JavaScript), sem fr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Sem dependências](https://img.shields.io/badge/depend%C3%AAncias-nenhuma-success?style=flat)
-
+ 
 ---
 
 ## 📸 Preview
